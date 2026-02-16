@@ -1,0 +1,28 @@
+{
+  "name": "matrinomial",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Sakarande007/Matrimonial_Web_app#readme",
+  "bugs": {
+    "url": "https://github.com/Sakarande007/Matrimonial_Web_app/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sakarande007/Matrimonial_Web_app.git"
+  },
+  "license": "ISC",
+  "author": "Sakarande007",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.6",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1"
+  }
+}
